@@ -29,7 +29,7 @@
                     <label for="remember-me">Remember me</label>
                 </div>
                 <a href="#">Need help?</a>
-            </dijjv>
+            </div>
         </form>
         <p>New to Netflix? <a href="#">Sign up now</a></p>
         <small>
